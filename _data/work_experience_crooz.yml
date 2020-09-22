@@ -1,0 +1,108 @@
+crooz:
+  role: Unity Developer, Lead Technical Artist
+  time: 2014/01 ~ 2016/10
+  company: 'Crooz (Full-time)'
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/crooz/
+  details: >-
+  
+   <div class="upper-row">
+        <p class="game-title">Project: Final Fantasy Grandmasters</p>
+        <div class="game-platform">Platforms: Mobile (iPhone, Android)</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">A Final Fantasy series rpg game</div>
+        <div class="game-teamsize">Team Size: 20 members</div>
+   </div><!--//upper-row-->
+
+   <p><i><b><u>Work Award</u></b></i></p>
+   <p>Received an award on October 9th 2015 from the president for my many contributions that:</p>
+   <p>
+       <span class="bullet-point"> Increased productivity, reduced manual workloads and helped to cut spending costs</span>
+   </p>
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">Python, Maya, C++, C#, FBX SDK, Unity (4, 5), NGUI</span>
+   </p>
+
+   <p><i><u>Art Pipeline Tools Development</u></i></p>
+   <div> Maya </div>
+   <p>
+       <span class="bullet-point"> Material Animation Exporter - Created a plugin to export material animation to Unity (color, alpha, uv)</span>
+   </p>
+   
+   <p><i><u>Unity Development</u></i></p>
+   <div>Asset Importers</div>
+   <p>
+       <span class="bullet-point"> Material Animation Importer - Made an importer to convert Maya material animation to Unity resources</span>
+       <span class="indent">(Animation clips and Animator Controller with animation states automatically setup)</span>
+   </p>
+
+   <div>Animation</div>
+   <p>
+       <span class="bullet-point"> Material Animation System - Developed a method for animating color, alpha and uv material properties</span>
+       <span class="indent">(Used as the primary system for the game's magic effects)</span>
+   </p>
+
+   <div>Particles</div>
+   <p>
+       <span class="bullet-point"> Particle Scaling System - Created a <u>runtime</u> particle effect scaling method using hierarchy transforms</span>
+       <span class="indent">(A feat considered impossible at the time)</span>
+   </p>
+
+   <div>Meshes</div>
+   <p>
+       <span class="bullet-point"> Rendering Optimizations - Customized Mesh Baker source to compress <u>animated</u> models and reduce draw calls</span>
+   </p>
+
+   <div>Shaders</div>
+   <p>
+        <span class="bullet-point"> Character Skin Shader - Created a two-tone color skin shader</span>
+        <span class="bullet-point"> Crystal Shader - Made a crystal shader with specular effects</span>
+        <span class="bullet-point"> UV Scroll Shader - Made a texture scroll effect to animate planar water</span>
+   </p>
+
+   <div>Post Effects</div>
+   <p>
+        <span class="bullet-point"> Outline Glow - Developed a highly optimized outline glow effect for armor and weapons</span>
+   </p>
+   
+   <div>Editor Tools</div>
+   <p>
+        <span class="bullet-point"> Animator Controller Player - Developed a player utility to play animation in edit-mode</span>
+        <span class="bullet-point"> Animator Controller Creator - Created a tool to rapidly create and setup Animator Controllers</span>
+        <span class="bullet-point"> Prefab Creator - Made a tool for quickly creating prefabs with settings (name, folder path, shader)</span>
+        <span class="bullet-point"> Prefab Updater - Created a tool to update prefab geometry and animations from FBX assets</span>
+        <span class="bullet-point"> Batch Prefab Tool - Made a prefab batching system to rapidly create or update prefabs</span>
+        <span class="bullet-point"> Look-Dev Tools - Created model viewer tools for characters, magic effects and maps</span>
+   </p>
+   
+   <br/>
+   
+   <div class="upper-row">
+        <p class="game-title">Game Title: ACR Drift</p>
+        <div class="game-platform">Platforms: Mobile (iPhone, Android)</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">A car drift racing game</div>
+        <div class="game-teamsize">Team Size: 10 members</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point"> C#, Unity 4, NGUI</span>
+   </p>
+   
+   <p><i><u>UI Development</u></i></p>
+   <p>
+       <span class="bullet-point"> Game Screen UI - Used NGUI to implement UI elements for various screens (car selection, racing etc)</span>
+   </p>
+
+   <p><i><u>Gameplay</u></i></p>
+   <p>
+       <span class="bullet-point"> Gameplay Testing - Checked for racing fairness and game issues (graphics, physics, memory)</span>
+   </p>
+   

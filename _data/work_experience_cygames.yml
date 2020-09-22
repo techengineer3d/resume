@@ -1,0 +1,108 @@
+cygames:
+  role: Technical Artist
+  time: 2017/09 ~ 2020/Present
+  company: 'Cygames (Contract)'
+  location: 'Tokyo, Japan'
+  link: https://social-drum.cloudvent.net/clients/cygames/
+  details: >-
+  
+   <div class="upper-row">
+        <p class="game-title">Project: Project Awakening - Arise</p>
+        <div class="game-platform">Platforms: Playstation (PS4, PS5)</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">A third person action rpg game.</div>
+        <div class="game-teamsize">Team Size: 60</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">Python, Maya, C++, Unreal Engine 4</span>
+   </p>
+
+   <p><i><u>Art Pipeline Tools Development</u></i></p>
+   <div> Studio Library - A free tool for creating character poses in Autodesk Maya </div>
+   <p>
+       <span class="bullet-point"> Perforce - Added Perforce support, enabling the artists to version control their work</span>
+       <span class="bullet-point"> Relative Poses - Added math calculations to apply poses to characters at world locations</span>
+       <span class="bullet-point"> Naming Conventions - Changed the asset name extensions to comply with naming rules</span>
+   </p>
+   
+   <div> Pyblish - A free tool for testing and validating art assets against production rules</div>
+   <p>
+       <span class="bullet-point"> Hierarchy: Added tests to check model objects for correct parenting</span>
+       <span class="bullet-point"> Naming: Added tests to verify models, materials and textures comply with naming rules</span>
+   </p>
+   
+   <div>In-house Tools - Took over and improved existing tools</div>
+   <p>
+       <span class="bullet-point"> Performance Optimizations - Substantially improved sluggish PySide2 UI elements</span>
+       <span class="bullet-point"> Autodesk Shotgun Integration - Added UI to view and change a model's Shotgun task status</span>
+   </p>
+
+   <div>Perforce</div>
+   <p>
+       <span class="bullet-point"> Remote Work - Built a Maya compatible SSL Perforce Python binary to enable Perforce server access</span>
+   </p>
+   
+   <p><i><u>Unreal Engine Work</u></i></p>
+   <div>Material Development</div>
+   <p>
+       <span class="bullet-point"> Character Hair Shader - Helped improve the visual quality of the main characters hair</span>
+       <span class="bullet-point"> UE4 Flipboard Shader - Corresponded with Epic Games to fix a bug in their shader</span>
+       <span class="bullet-point"> Material Debugging - Debugged and fixed visual artifacts ocurring on the PS4</span>
+   </p>
+   
+   <div>Tool Development</div>
+   <p>
+        <span class="bullet-point"> Data Exporter - created a tool that exported the positions of models from game levels</span>
+   </p>
+   
+   <br/>
+   
+   <div class="upper-row">
+        <p class="game-title">Project: Anubis Zone of the Enders - M∀RS</p>
+        <div class="game-platform">Platforms: Playstation PS4</div>  
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">A mecha-style third person action game</div>
+        <div class="game-teamsize">Team Size: 40</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">Excel, Custom Localization Tools</span>
+   </p>
+   
+   <p><i><u>Localization Work</u></i></p>
+   <p>
+       <span class="bullet-point"> Text Proof Reading - reading and editing the game's English text</span>
+       <span class="bullet-point"> Spoken Dialog Review - reviewed in-game spoken English dialog</span>
+       <span class="bullet-point"> Text Data Entry - entered text data for French, German, Italian and Spanish languages</span>
+   </p>
+   
+   <br/>
+   
+   <div class="upper-row">
+        <p class="game-title">Technical Artist Team</p>
+        <div class="game-desc">Contributions to my group</div>
+   </div><!--//upper-row-->
+   
+   <div><i><u>Tool Logging</u></i></div>
+   <p>
+        <span class="bullet-point"> created a log aggregation system to combine logs from multiple running versions of Maya</span>
+        <span class="bullet-point"> created a tool logging system to track, gage and analyze internal tool usage and errors</span>
+        <span class="bullet-point"> added support to internal Maya and Photoshop tools to send logs to the logging system</span>
+        <span class="bullet-point"> added support for receiving tool log errors in Slack using webhooks</span>
+   </p>
+   
+   <div><i><u>Quality Assurance Improvment</u></i></div>
+   <p>
+    <span>Conducted research to improve my groups quality of code and source documentation:</span>
+    <span class="bullet-point"> Recommended source code analysis tools like: SonarLint, SonarQube</span>
+    <span class="bullet-point"> Suggested coding style tools like: Unibeautify</span>
+    <span class="bullet-point"> Promoted source documentation tools like: Doxygen, Sphinx, Sphinx-JS or TypeDoc</span>
+   </p>
+ 

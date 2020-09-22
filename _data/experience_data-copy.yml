@@ -1,0 +1,93 @@
+experiences:
+  - role: Technical Artist
+    time: 2017/09 ~ 2020/Present
+    company: 'Cygames'
+    location: 'Shibuya, Tokyo'
+    link: https://social-drum.cloudvent.net/clients/cygames/
+    details: >-
+     <p>From the fall of 2017 up to present, I am working as a Technical Artist at Cygames in Shibuya, Tokyo.</p>
+     
+     <p><u>Project Awakening - Art Pipeline Tools Development:</u></p>
+     <p><b>Studio Library</b> - A free tool for creating character poses in Autodesk Maya</p>
+     <div markdown="1">
+       - Added <b>Perforce integration</b> to allow the artists to update, checkout and submit their poses to the Perforce repo directly from Maya.
+       - Added <b>relative position and relative rotation</b> support, making it possible to apply StudioLibrary poses to characters at Maya world locations other than the origin.
+       - Created a <b>renaming tool</b> to rename the Studio Library asset folders in order to conform to development naming conventions.
+     </div>
+     
+     <p><b>Pyblish</b> - A free tool for validating art assets against the specified development conventions</p>
+     <p>Implemented Pyblish for Maya and the following validation checks:</p>
+     <div markdown="1">
+      - Model root validation (naming check)
+      - Main model validation (namming check)
+      - LOD models validation (naming check)
+      - Collisions model validation (naming check)
+      - Rig joints validation (naming check)
+      - Materials and textures validation (naming check)
+     </div>
+     
+     <p><b>In-House Tools</b></p>
+     <p>Extension and maintenance of Maya tools</p>
+     <div markdown="1">
+     - Substantially improved the performance of a model asset browser
+     - Added support for displaying and changing an asset's Autodesk Shotgun task status
+     </div>
+     
+     <p><u>Technical Artist Team - General Developmet</u></p>
+     <p><b>Tool logging server</b></p>
+      - created a python-based tool log server using Flask, CherryPy, SQLAlchemy and Postgresql
+      - upgraded the tool logging server to use Kibana and FluentD
+      - added support for sending tool logs from Maya using PyZMQ (re-compiled for each Maya python version)
+      - added support for sending tool logs from Photoshop
+      - added support for receiving error level and critical level logs in Slack using webhooks
+     
+     <div markdown="1">
+      <p><b>Information Research - Improvement of quality of Technical Artist development operations (QA tools and documentation)</b></p>
+      - Source Code Analysis Tools
+       - SonarLint
+       - SonarQube
+      - Coding Style Implementation Tools
+       - Unibeautify
+      - Source Code Documentation Generation Tools
+       - Javascript : Sphinx-JS, TypeDoc
+       - Python: Sphinx , PyCharm Doc Generation
+       - C/C++: Doxygen
+      - Source Code Documentation Integrations for Confluence
+       - Sphinx For Confluence
+       - Doxygen For Confluence
+     </div>
+     </br>
+     
+     <p>I have assisted with Unreal Engine material devleopment:</p>
+     - Character hair shader improvement<br/>
+     - Shader debugging on the PS4 development console<br/>
+     
+     <br/>
+     </div>
+      
+     <p>Some of my time at Cygames was spent working on localization efforts for the PS4 release of Anubis Zone of the Enders - M∀RS.</p>
+
+     <p>My tasks included proof reading and editing the games English text, reviewing in-game spoken English dialog and written English text displayed in the game’s UI.</p>
+        
+     <p>I also helped enter localized game text for the French, German, Italian and Spanish languages using an in-house localization editor tool.</p>
+      
+  - role: Senior Software Engineer
+    time:
+    company: 'Google'
+    location: 'London'
+    details: >-
+      Describe your role here lorem ipsum dolor sit amet, consectetueradipiscing
+      elit. Aenean commodo ligula eget dolor. Aenean massa.Cum sociis natoque
+      penatibus et magnis dis parturient montes,nascetur ridiculus mus. Donec
+      quam felis, ultricies nec,pellentesque eu, pretium quis, sem.  - Bullet
+      point  - Bullet point
+  - role: UI Developer
+    time:
+    company: 'Amazon'
+    location: 'London'
+    details: >-
+      Describe your role here lorem ipsum dolor sit amet, consectetueradipiscing
+      elit. Aenean commodo ligula eget dolor. Aenean massa.Cum sociis natoque
+      penatibus et magnis dis parturient montes,nascetur ridiculus mus. Donec
+      quam felis, ultricies nec,pellentesque eu, pretium quis, sem.  - Bullet
+      point  - Bullet point

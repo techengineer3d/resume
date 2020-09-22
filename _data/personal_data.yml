@@ -1,0 +1,64 @@
+personal-profile:
+  name: Bret Cowart
+  tagline: Experienced </br> Game Developer
+  location: Tokyo, Japan
+  avatar:
+  
+personal-contact:
+  email: techengineer3d@pm.me
+  phone:
+  website: techengineer3d.github.io/portfolio
+  resume: techengineer3d.github.io/resume
+  linkedin:
+  github: 
+  gitlab:
+  bitbucket:
+  twitter: 
+  stack-overflow:
+  codewars:
+  goodreads:
+
+personal-interests:
+    title: Activities & Interests
+    intro: >-
+        The following are some of my interests:
+    activity-list:
+    - title: Games
+      link:
+      desc: 'Genres: Action, Fighting, Strategy'
+      details: >-
+        <p> PC<br/>
+        <span class="bullet-point">Tomb Raider series</span>
+        <span class="bullet-point">Star Wars Jedi Fallen Order</span>
+        <span class="bullet-point">Street Fighter series</span>
+        <br/> Mobile <br/>
+        <span class="bullet-point">Command & Conquer Rivals</span>
+        <span class="bullet-point">Marvel Contest of Champions</span>
+        <span class="bullet-point">Might & Magic Chess Royale</span>
+        </p>
+    - title: Technology
+      link:
+      desc: 'PC Tech, 3D Graphics, Programming, AI and Machine Learning'
+      details: >-
+        <p>
+        <span class="bullet-point">PC Hardware</span>
+        <span class="bullet-point">3D Graphics</span>
+        <span class="bullet-point">AI / Machine Learning</span>
+        </p>
+    - title: Plastic Models
+      link:
+      desc: 'Plastic Models'
+      details: >-
+        <p>
+        <span class="bullet-point">Gundam Rx-93 Ver.Ka</span>
+        <span class="bullet-point">Macross Valkyrie</span>
+        </p>
+    - title: Sports
+      link:
+      desc: 'Baseball, Archery'
+      details: >-
+        <p>
+        <span class="bullet-point">Baseball</span>
+        <span class="bullet-point">Archery</span>
+        </p>
+

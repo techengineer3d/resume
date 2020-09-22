@@ -1,0 +1,114 @@
+experiences:
+  - role: Technical Artist
+    time: 2017/09 ~ 2020/Present
+    company: 'Cygames'
+    location: 'Shibuya, Tokyo'
+    link: https://social-drum.cloudvent.net/clients/cygames/
+    details: >-
+     <p><u>Game Title : Project Awakening - Arise</u></p>
+     
+     <p><b>Art Pipeline Tools Development</b></p>
+     <p> Studio Library - A free tool for creating character poses in Autodesk Maya </p>
+     <div style="text-indent: 15px;"> Extended the tool's functionality to meet the 3D artists needs: </div>
+     <div markdown="1">
+       - Perforce - Added support to allow the artists to use Perforce direclty from Studio Library.
+       - Relative Poses - Made it possible to apply poses to the character model at locations other than the origin.
+       - Asset Folder Renaming - Created a tool to rename the Studio Library asset folders.
+     </div>
+     
+     <br/>
+     
+     <p>Pyblish - A free tool for validating art assets against the specified development conventions</p>
+     <div style="text-indent: 15px;"> Implemented Pyblish for Maya and the following production validation checks: </div>
+     <div markdown="1">
+       - Hierarchy Check: Added test to check character models and rigs for object parenting errors.
+       - Naming Convention Check: Added test to check character models and rigs for incorrect naming.
+     </div>
+     
+     <br/>
+     
+     <p>Autodesk Maya - A 3D modeling tool</p>
+     <div style="text-indent: 15px;"> Took over and improved existing internal Maya tool projects: </div>
+     <div markdown="1">
+       - Substantially improved the performance of a model file browser to smoothly display hundreds of files.
+       - Added support for displaying and changing a model's Autodesk Shotgun task status.
+     </div>
+     
+     <br/>
+     
+     <p><b>Unreal Engine Work</b></p>
+     <p>Material Development</p>
+     <div style="text-indent: 15px;"> Assited with UE4 material development </div>
+     <div markdown="1">
+       - Character Hair Shading - I aided with improving the visual quality of the main characters hair
+       - Flipboard Shader - helped to fix a bug in the flipboard shader (with assistance from Epic Games)
+       - Material Debugging - debugged visual material errors on the PS4 development console
+     </div>
+     
+     <br/>
+     
+     <p>Tool Development</p>
+     <div markdown="1">
+       - Data Exporter - created a tool that exported the positions of models from game levels.
+     </div>
+     
+     <br/>
+     
+     <p><u>Game Title : Anubis Zone of the Enders - M∀RS</u></p>
+     
+     <p><b>Localization</b></p>
+     <div style="text-indent: 15px;"> Assisted with language editing work<p>
+     <div markdown="1">
+       - Text Proof Reading - reading and editing the game's English text.
+       - Spoken Dialog Review - reviewed in-game spoken English dialog.
+       - Data Entry - entered text data for French, German, Italian and Spanish languages.
+     </div>
+     
+     <br/>
+     
+     <p><u>Technical Artist Team </u></p>
+     <p><b>Internal Development</b></p>
+     
+     <p>Tool Logging</p>
+     <div style="text-indent: 15px;"> Created a logging system to gather errors and user usage from internal tools</div>
+     <div markdown="1">
+       - created a python server using Flask, CherryPy, SQLAlchemy and Postgresql
+       - upgraded the logging tool server to use Kibana and FluentD
+       - added support for sending logs from Maya tools using PyZMQ
+       - added support for sending logs from Photoshop tools
+       - added support for receiving log errors in Slack using webhooks
+      </div>
+      
+      <br/>
+     
+     <div markdown="1">
+      <p>Development QA</p>
+      <div style="text-indent: 15px;"> Conducted research to improve my team's code quality and code documentation</div>
+        - Source Code Analysis Tools (SonarLint, SonarQube)
+        - Coding Style Tools (Unibeautify)
+        - Javascript : Sphinx-JS, TypeDoc
+        - Python: Sphinx , PyCharm Doc Generation
+        - C/C++: Doxygen
+     </div>
+     
+      
+  - role: Senior Software Engineer
+    time:
+    company: 'Google'
+    location: 'London'
+    details: >-
+      Describe your role here lorem ipsum dolor sit amet, consectetueradipiscing
+      elit. Aenean commodo ligula eget dolor. Aenean massa.Cum sociis natoque
+      penatibus et magnis dis parturient montes,nascetur ridiculus mus. Donec
+      quam felis, ultricies nec,pellentesque eu, pretium quis, sem.  - Bullet
+      point  - Bullet point
+  - role: UI Developer
+    time:
+    company: 'Amazon'
+    location: 'London'
+    details: >-
+      Describe your role here lorem ipsum dolor sit amet, consectetueradipiscing
+      elit. Aenean commodo ligula eget dolor. Aenean massa.Cum sociis natoque
+      penatibus et magnis dis parturient montes,nascetur ridiculus mus. Donec
+      quam felis, ultricies nec,pellentesque eu, pretium quis, sem.  - Bullet
+      point  - Bullet point

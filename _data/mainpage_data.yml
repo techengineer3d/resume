@@ -1,0 +1,14 @@
+mainpage:
+  enable_career_profile: true
+  enable_career_objective: true
+  enable_career_relocation: false
+  enable_education: true
+  enable_language: false
+  enable_interests: false
+  enable_awards: false
+  enable_skills: true
+  enable_projects: false
+  enable_experiences: true
+  enable_publications: false
+  
+  
