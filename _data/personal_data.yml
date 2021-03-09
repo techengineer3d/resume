@@ -25,16 +25,20 @@ personal-interests:
     activity-list:
     - title: Games
       link:
-      desc: 'Genres: Action, Fighting, Strategy'
+      desc: 'Genres: RPG, Action, Fighting, Strategy'
       details: >-
-        <p> PC<br/>
+        <p> PC / Console<br/>
         <span class="bullet-point">Tomb Raider series</span>
-        <span class="bullet-point">Star Wars Jedi Fallen Order</span>
+        <span class="bullet-point">Star Wars series</span>
+        <span class="bullet-point">Alien / Predator series</span>
+        <span class="bullet-point">Mech Warrior series</span>
         <span class="bullet-point">Street Fighter series</span>
+        
         <br/> Mobile <br/>
+        <span class="bullet-point">Genshin Impact</span>
         <span class="bullet-point">Command & Conquer Rivals</span>
         <span class="bullet-point">Marvel Contest of Champions</span>
-        <span class="bullet-point">Might & Magic Chess Royale</span>
+        <span class="bullet-point">War Robots</span>
         </p>
     - title: Technology
       link:
@@ -50,7 +54,6 @@ personal-interests:
       desc: 'Plastic Models'
       details: >-
         <p>
-        <span class="bullet-point">Gundam Rx-93 Ver.Ka</span>
         <span class="bullet-point">Macross Valkyrie</span>
         </p>
     - title: Sports
