@@ -3,18 +3,20 @@ skills:
   skillsets:
     - GameEngines: 
       title: "Game Engines"
-      desc: "Unity 4 / 5 / 2017, Unreal Engine 4"
+      desc: >-
+       <span>Unity (4 , 5 , 2017)</span><br/> 
+       <span>Unreal Engine (4 , 5)</span><br/>
       level: 0
     - Platforms: 
       title: "Development Platforms"
       desc: >-
        <span>Desktop: Windows, Mac</span><br/>
        <span>Mobile: iPhone, Android</span><br/>
-       <span>Game Console: Playstation (PS3, PS4, PSP), Nintendo (Wii, DS), XBox</span><br/>
+       <span>Game Console: Playstation (PS3, PS4, PSP), Nintendo (Wii, DS), Microsoft XBox</span><br/>
       level: 0
     - Programming: 
       title: "Programming"
-      desc: "C/C++ (10 years), C# (5 years), Objective-C/C++ (7 years), Java (7 years), Python (5 years), YAML (2 years)"
+      desc: "C/C++ (12 years), C# (5 years), Objective-C/C++ (7 years), Java (7 years), Python (7 years), YAML (2 years)"
       level: 0
     - API: 
       title: "Graphics Programming"
@@ -24,7 +26,7 @@ skills:
       level: 0
     - ArtTools: 
       title: "Art Tools Programming"
-      desc: "Maya (2015 to 2019), Photoshop CC (2014 to 2017), Studio Max (4, 5, 2008)"
+      desc: "Maya (2015 to 2023), Photoshop CC (2014 to 2017), Studio Max (4, 5, 2008)"
       level: 0
     - Web Programming: 
       title: "Web Programming"
@@ -36,7 +38,7 @@ skills:
       level: 0
     - VersionControl: 
       title: "Version Control"
-      desc: "Perforce, Github Enterprise, Git"
+      desc: "Perforce, Github, Git"
       level: 0
     
     

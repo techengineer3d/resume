@@ -1,7 +1,7 @@
 personal-profile:
   name: Bret Cowart
   tagline: Experienced </br> Game Developer
-  location: Tokyo, Japan
+  location:
   avatar:
   
 personal-contact:
@@ -27,17 +27,21 @@ personal-interests:
       link:
       desc: 'Genres: RPG, Action, Fighting, Strategy'
       details: >-
-        <p> PC / Console<br/>
-        <span class="bullet-point">Tomb Raider series</span>
-        <span class="bullet-point">Star Wars series</span>
-        <span class="bullet-point">Alien / Predator series</span>
-        <span class="bullet-point">Mech Warrior series</span>
-        <span class="bullet-point">Street Fighter series</span>
+        <p> PC <br/>
+        <span class="bullet-point">Apex Legends</span>
+        <span class="bullet-point">Farlight 84</span>
+        <span class="bullet-point">Star Wars JEDI Fallen Order</span>
+        <span class="bullet-point">Star Wars Squadrons</span>
+        <span class="bullet-point">Star Wars Battlefront II</span>
+        <span class="bullet-point">Rise of the Tomb Raider</span>
+        <span class="bullet-point">Shadow of the Tomb Raider</span>
+        <span class="bullet-point">MechWarrior Online Legends</span>
         
         <br/> Mobile <br/>
-        <span class="bullet-point">Genshin Impact</span>
+        <span class="bullet-point">Apex Legends Mobile</span>
         <span class="bullet-point">Command & Conquer Rivals</span>
-        <span class="bullet-point">Marvel Contest of Champions</span>
+        <span class="bullet-point">Lara Croft Go</span>
+        <span class="bullet-point">Ghost Trick</span>
         <span class="bullet-point">War Robots</span>
         </p>
     - title: Technology
@@ -49,19 +53,12 @@ personal-interests:
         <span class="bullet-point">3D Graphics</span>
         <span class="bullet-point">AI / Machine Learning</span>
         </p>
-    - title: Plastic Models
-      link:
-      desc: 'Plastic Models'
-      details: >-
-        <p>
-        <span class="bullet-point">Macross Valkyrie</span>
-        </p>
     - title: Sports
       link:
-      desc: 'Baseball, Archery'
+      desc: 'Baseball, Bowling (10 Pin)'
       details: >-
         <p>
         <span class="bullet-point">Baseball</span>
-        <span class="bullet-point">Archery</span>
+        <span class="bullet-point">Bowling (10 Pin)</span>
         </p>
 

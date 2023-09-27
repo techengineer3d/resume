@@ -1,7 +1,7 @@
 mainpage:
   enable_career_profile: true
   enable_career_objective: true
-  enable_career_relocation: false
+  enable_career_relocation: true
   enable_education: true
   enable_language: false
   enable_interests: false
