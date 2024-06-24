@@ -1,6 +1,6 @@
 squareenix:
   role: Workflow / Tools Programmer
-  time: 2021/06 ~ Present
+  time: 2021/06 ~ 2024/06
   company: 'Square Enix (Contract)'
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/squareenix/
@@ -22,7 +22,7 @@ squareenix:
    </p>
 
    <p><i><u>Facial Animation Development</u></i></p>
-   <div> Facial Animation Library</div>
+   <div> Facial Animation Programming Library</div>
    <p>
        <span class="bullet-point"> Provided updates and maintenance for an in-house facial animation programming library</span>
    </p>
@@ -47,9 +47,10 @@ squareenix:
    </p>
 
    <p><i><u>Unreal Engine 5 Mobile GPS Location Based Game Project</u></i></p>
-   <div> Model Loading and Spawning</div>
+   <div> Support Engineer</div>
    <p>
-       <span class="bullet-point">Upgraded the procedural building generation and spawn systems to also handle static mesh buildings.</span>
+       <span class="bullet-point">Upgraded the procedural mesh generation system and spawn system to handle regular static meshes</span>
+       <span class="bullet-point">Created editor tools for real time swapping of game world layers (ground, sky, background, props etc)</span>
    </p>
    
  

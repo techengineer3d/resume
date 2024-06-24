@@ -14,11 +14,15 @@
 {% assign fromsoftware = site.data.work_experience_esmile_fromsoftware.fromsoftware %}
 {% assign climax = site.data.work_experience_esmile_climax.climax %}
 {% assign monolith = site.data.work_experience_esmile_monolith.monolith %}
+
+<!-- COMEMENTED OUT
+{% comment %}
 {% assign infinity = site.data.work_experience_infinity.infinity %}
 {% assign hudson = site.data.work_experience_hudson.hudson %}
 {% assign raits = site.data.work_experience_raits.raits %}
 {% assign cinomix = site.data.work_experience_cinomix.cinomix %}
-
+{% endcomment %}
+-->
 
 {% assign experiences = '' | split: '' %}
 
@@ -38,11 +42,15 @@
 {% assign experiences = experiences | push: fromsoftware %}
 {% assign experiences = experiences | push: climax %}
 {% assign experiences = experiences | push: monolith %}
+
+<!-- COMMENTED OUT
+{% comment %}
 {% assign experiences = experiences | push: infinity %}
 {% assign experiences = experiences | push: hudson %}
 {% assign experiences = experiences | push: raits %}
 {% assign experiences = experiences | push: cinomix %}
-
+{% endcomment %}
+-->
 
 {% if experiences %}
 

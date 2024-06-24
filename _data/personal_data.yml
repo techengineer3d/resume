@@ -23,16 +23,18 @@ personal-interests:
     intro: >-
         The following are some of my interests:
     activity-list:
-    - title: Games
+    - title: Games (Action, Fighting, RPG)
       link:
       desc: 'Genres: RPG, Action, Fighting, Strategy'
-      details: >-
+      details:
+        <!-- COMMENTED OUT
+        >-
         <p> PC <br/>
         <span class="bullet-point">Apex Legends</span>
-        <span class="bullet-point">Farlight 84</span>
         <span class="bullet-point">Star Wars JEDI Fallen Order</span>
         <span class="bullet-point">Star Wars Squadrons</span>
         <span class="bullet-point">Star Wars Battlefront II</span>
+        <span class="bullet-point">Assassin's Creed Odyssey</span>
         <span class="bullet-point">Rise of the Tomb Raider</span>
         <span class="bullet-point">Shadow of the Tomb Raider</span>
         <span class="bullet-point">MechWarrior Online Legends</span>
@@ -44,21 +46,21 @@ personal-interests:
         <span class="bullet-point">Ghost Trick</span>
         <span class="bullet-point">War Robots</span>
         </p>
-    - title: Technology
+        -->
+    - title: Technology (3D, AI)
       link:
       desc: 'PC Tech, 3D Graphics, Programming, AI and Machine Learning'
-      details: >-
+      details:
+        <!-- COMMENTED OUT
+        >-
         <p>
         <span class="bullet-point">PC Hardware</span>
         <span class="bullet-point">3D Graphics</span>
         <span class="bullet-point">AI / Machine Learning</span>
         </p>
-    - title: Sports
+        -->
+    - title: Movies (Action, SF, Fantasy)
       link:
-      desc: 'Baseball, Bowling (10 Pin)'
-      details: >-
-        <p>
-        <span class="bullet-point">Baseball</span>
-        <span class="bullet-point">Bowling (10 Pin)</span>
-        </p>
+      desc: 'PC Tech, 3D Graphics, Programming, AI and Machine Learning'
+      details:
 
