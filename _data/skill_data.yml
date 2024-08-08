@@ -30,11 +30,16 @@ skills:
       level: 0
     - Web Programming: 
       title: "Web Programming"
-      desc: "HTML, CSS, Javascript, PHP (1 year)"
+      desc: >-
+        <span>HTML, CSS, Javascript, PHP, Flask (1 year)</span><br/>
       level: 0
     - Database: 
       title: "Database Programming"
-      desc: "Postgresql: Server, Web Apps (1 year)"
+      desc: "SQL, Postgresql Server, SQLAlchemy (1 year)"
+      level: 0
+    - Cloud:
+      title: "Cloud Platforms"
+      desc: "AWS (1 year)"
       level: 0
     - VersionControl: 
       title: "Version Control"

@@ -17,6 +17,10 @@ layout: default
   {% include career-relocation.html %}
 {% endif %}
 
+{% if mainpage.enable_work_style %}
+  {% include work-style.html %}
+{% endif %}
+
 {% if mainpage.enable_education %}
   {% include education.html %}
 {% endif %}
