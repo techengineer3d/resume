@@ -4,4 +4,4 @@ sidebar:
   enable_contact: true
   enable_education: false
   enable_languages: true
-  enable_interests: true
+  enable_interests: false

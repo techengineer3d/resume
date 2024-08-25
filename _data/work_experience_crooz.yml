@@ -17,9 +17,12 @@ crooz:
    </div><!--//upper-row-->
 
    <p><i><b><u>Work Award</u></b></i></p>
-   <p>Received an award on October 9th 2015 from the president for my many contributions that:</p>
+   <p>In 2015, I created animation technology and a suite of time-saving asset tools for the Unity mobile RPG game 'Final Fantasy Grandmasters'.
+      I received an MVP award from the company President on October 9th 2015 for my contributions to the project that:</p>
    <p>
-       <span class="bullet-point"> Increased productivity, reduced manual workloads and helped to cut spending costs</span>
+          <span class="bullet-point"> Increased productivity</span>
+          <span class="bullet-point"> Reduced manual workloads</span>
+          <span class="bullet-point"> Helped to cut spending costs</span>
    </p>
 
    <p><i><u>Tech</u></i></p>
@@ -54,7 +57,7 @@ crooz:
 
    <div>Meshes</div>
    <p>
-       <span class="bullet-point"> Rendering Optimizations - Customized Mesh Baker source to compress <u>animated</u> models and reduce draw calls</span>
+       <span class="bullet-point"> Rendering Optimizations - Customized the Mesh Baker source code to compress <u>animated</u> models and reduce draw calls</span>
    </p>
 
    <div>Shaders</div>

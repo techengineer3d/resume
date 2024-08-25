@@ -21,8 +21,14 @@
     </li>
     {% endif %}
 
+    {% if contact.portfolio %}
+    <li class="website"><i class="fas fa-book-open"> Portfolio</i><br/>
+      <a href="http://{{ contact.portfolio }}" target="_blank">{{ contact.portfolio }}</a>
+    </li>
+    {% endif %}
+
     {% if contact.resume %}
-    <li class="resume"><i class="fas fa-globe-americas"> Resume</i><br/>
+    <li class="resume"><i class="fas fa-address-card"> Resume</i><br/>
       <a href="http://{{ contact.resume }}" target="_blank">{{ contact.resume }}</a>
     </li>
     {% endif %}

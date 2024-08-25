@@ -7,7 +7,8 @@ personal-profile:
 personal-contact:
   email: techengineer3d@pm.me
   phone:
-  website: techengineer3d.github.io/portfolio
+  website:
+  portfolio: techengineer3d.github.io/portfolio
   resume: techengineer3d.github.io/resume
   linkedin:
   github: 
@@ -23,7 +24,7 @@ personal-interests:
     intro: >-
         The following are some of my interests:
     activity-list:
-    - title: Games (Action, Fighting, RPG)
+    - title: Games:<br/> <span> Action, Fighting, RTS, RPG</span>
       link:
       desc: 'Genres: RPG, Action, Fighting, Strategy'
       details:
@@ -47,7 +48,7 @@ personal-interests:
         <span class="bullet-point">War Robots</span>
         </p>
         -->
-    - title: Technology (3D, AI)
+    - title: Technology:<br/> <span>3D Graphics, AI</span>
       link:
       desc: 'PC Tech, 3D Graphics, Programming, AI and Machine Learning'
       details:
@@ -59,7 +60,7 @@ personal-interests:
         <span class="bullet-point">AI / Machine Learning</span>
         </p>
         -->
-    - title: Movies (Action, SF, Fantasy)
+    - title: Movies:<br/> <span>Action, SF, Fantasy</span>
       link:
       desc: 'PC Tech, 3D Graphics, Programming, AI and Machine Learning'
       details:

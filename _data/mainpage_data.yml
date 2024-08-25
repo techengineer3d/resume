@@ -6,7 +6,7 @@ mainpage:
   enable_education: true
   enable_language: false
   enable_interests: false
-  enable_awards: false
+  enable_awards: true
   enable_skills: true
   enable_projects: false
   enable_experiences: true
