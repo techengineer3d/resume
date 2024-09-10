@@ -1,14 +1,14 @@
 cavia:
   role: Effects Programmer
   time: 2009/07/01 ~ 2009/08/28
-  company: 'Cavia (Contract)'
+  company: <span translate="no"> Cavia </span> (Contract)
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/cavia/
   company_url: 
   details: >-
 
    <div class="upper-row">
-        <p class="game-title">Project: Nier Gestalt</p>
+         <p class="game-title">Project: <span translate="no"> Nier Gestalt </span> </p>
         <div class="game-platform">Platforms: Playstation 3</div>
    </div><!--//upper-row-->
 

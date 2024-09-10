@@ -1,14 +1,14 @@
 landho:
   role: Unity Engineer
   time: 2013/05/01 ~ 2013/09/28
-  company: 'Land Ho! (Contract)'
+  company: <span translate="no"> Land Ho! </span> (Contract)
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/landho/
   company_url: https://www.landho.co.jp
   details: >-
    
    <div class="upper-row">
-        <p class="game-title">Project: Sakatsuku Shoot!</p>
+         <p class="game-title">Project: <span translate="no"> Sakatsuku Shoot! </span> </p>
         <div class="game-platform">Platforms: Mobile iPhone / Android</div>
    </div><!--//upper-row-->
 

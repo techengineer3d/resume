@@ -1,14 +1,14 @@
 tayutau:
   role: Unity Developer
   time: 2013/10 ~ 2013/11
-  company: 'Tayutau (Contract)'
+  company: <span translate="no"> Tayutau </span> (Contract)
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/tayutau/
   company_url: https://tayutau.co.jp/
   details: >-
    
    <div class="upper-row">
-        <p class="game-title">Project: Final Fantasy Agito</p>
+         <p class="game-title">Project: <span translate="no"> Final Fantasy Agito </span> </p>
         <div class="game-platform">Platforms: Mobile iPhone / Android</div>
    </div><!--//upper-row-->
 

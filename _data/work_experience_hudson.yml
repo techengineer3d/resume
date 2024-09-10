@@ -1,14 +1,14 @@
 hudson:
   role: Game Programmer
   time: 2002/08/01 ~ 2005/06/28
-  company: 'Hudson Soft (Full-time)'
+  company: <span translate="no"> Hudson Soft </span> (Full-time)
   location: 'Sapporo, Japan'
   link: https://social-drum.cloudvent.net/clients/hudson/
   company_url:
   details: >-
   
    <div class="upper-row">
-        <p class="game-title">Project: Master of Epic - The Resonance Age Universe</p>
+         <p class="game-title">Project: <span translate="no"> Master of Epic - The Resonance Age Universe </span></p>
         <div class="game-platform">Platforms: Windows</div>
    </div><!--//upper-row-->
 

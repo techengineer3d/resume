@@ -1,14 +1,14 @@
 mightygames:
   role: Unity Developer, Lead Technical Artist
   time: 2016/11 ~ 2017/7
-  company: 'Mighty Games (Full-time)'
+  company: <span translate="no"> Mighty Games </span> (Full-time)
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/mightygames/
   company_url:
   details: >-
   
    <div class="upper-row">
-        <p class="game-title">Project: Final Fantasy Grandmasters</p>
+         <p class="game-title">Project: <span translate="no"> Final Fantasy Grandmasters </span> </p>
         <div class="game-platform">Platforms: Mobile (iPhone, Android)</div>
    </div><!--//upper-row-->
 

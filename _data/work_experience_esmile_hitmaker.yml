@@ -1,14 +1,14 @@
 hitmaker:
   role: Graphics Programmer
   time: 2008/04/01 ~ 2009/06/28
-  company: 'Hitmaker (Contract)'
+  company: <span translate="no"> Hitmaker </span> (Contract)
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/hitmaker/
   company_url: 
   details: >-
    
    <div class="upper-row">
-        <p class="game-title">Project: Last Rebellion</p>
+         <p class="game-title">Project: <span translate="no"> Last Rebellion </span> </p>
         <div class="game-platform">Platforms: Playstation 3</div>
    </div><!--//upper-row-->
 

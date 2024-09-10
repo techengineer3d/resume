@@ -1,13 +1,13 @@
 cygames:
   role: Technical Artist
   time: 2017/09 ~ 2021/02
-  company: 'Cygames (Contract)'
+  company: <span translate="no"> Cygames </span> (Contract)
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/cygames/
   details: >-
   
    <div class="upper-row">
-        <p class="game-title">Project: Project Awakening - Arise</p>
+        <p class="game-title">Project: <span translate="no"> Project Awakening - Arise</span> </p>
         <div class="game-platform">Platforms: Playstation (PS4, PS5)</div>
    </div><!--//upper-row-->
 
@@ -62,7 +62,7 @@ cygames:
    <br/>
    
    <div class="upper-row">
-        <p class="game-title">Project: Anubis Zone of the Enders - M∀RS</p>
+         <p class="game-title">Project: <span translate="no"> Anubis Zone of the Enders - M∀RS </span> </p>
         <div class="game-platform">Platforms: Playstation PS4</div>  
    </div><!--//upper-row-->
 

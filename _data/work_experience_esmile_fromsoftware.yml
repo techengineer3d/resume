@@ -1,14 +1,14 @@
 fromsoftware:
   role: Tools Programmer
   time: 2007/10/01 ~ 2008/02/28
-  company: 'FromSoftware (Contract)'
+  company: <span translate="no"> FromSoftware </span> (Contract)
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/hitmaker/
   company_url: 
   details: >-
    
    <div class="upper-row">
-        <p class="game-title">Project: Demon's Souls</p>
+         <p class="game-title">Project: <span translate="no"> Demon's Souls </span> </p>
         <div class="game-platform">Platforms: Playstation 3</div>
    </div><!--//upper-row-->
 

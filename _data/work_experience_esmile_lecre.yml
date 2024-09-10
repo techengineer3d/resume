@@ -1,14 +1,14 @@
 lecre:
   role: Mobile App Engineer
   time: 2012/11/01 ~ 2013/04/28
-  company: 'Lecre (Contract)'
+  company: <span translate="no"> Lecre </span> (Contract)
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/lucre/
   company_url: https://lecre.jp/
   details: >-
    
    <div class="upper-row">
-        <p class="game-title">Project: QR Code Scanner</p>
+         <p class="game-title">Project: <span translate="no"> QR Code Scanner </span> </p>
         <div class="game-platform">Platforms: Mobile iPhone / Android</div>
    </div><!--//upper-row-->
 
@@ -31,7 +31,7 @@ lecre:
 
 
    <div class="upper-row">
-        <p class="game-title">Project: Augmented Reality App</p>
+         <p class="game-title">Project: <span translate="no"> Augmented Reality App </span> </p>
         <div class="game-platform">Platforms: Mobile iPhone / Android</div>
    </div><!--//upper-row-->
 
@@ -54,7 +54,7 @@ lecre:
 
 
    <div class="upper-row">
-        <p class="game-title">Project: Mobile Chat Application</p>
+         <p class="game-title">Project: <span translate="no"> Mobile Chat Application </span> </p>
         <div class="game-platform">Platforms: Mobile iPhone / Android</div>
    </div><!--//upper-row-->
 

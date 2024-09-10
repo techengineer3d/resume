@@ -1,14 +1,14 @@
 monolith:
   role: Game Programmer
   time: 2006/02/01 ~ 2007/01/28
-  company: 'Monolith Software (Contract)'
+  company: <span translate="no"> Monolith Software </span> (Contract)
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/monolith/
   company_url: 
   details: >-
    
    <div class="upper-row">
-        <p class="game-title">Project: Disaster - Day of Crisis</p>
+         <p class="game-title">Project: <span translate="no"> Disaster - Day of Crisis </span> </p>
         <div class="game-platform">Platforms: Nintendo Wii</div>
    </div><!--//upper-row-->
 

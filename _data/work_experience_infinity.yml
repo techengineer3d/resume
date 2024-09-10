@@ -1,14 +1,14 @@
 infinity:
   role: Game Programmer
   time: 2005/06/01 ~ 2005/12/28
-  company: 'Infinity (Contract)'
+  company: <span translate="no"> Infinity </span> (Contract)
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/infinity/
   company_url: http://www.infinity-soft.co.jp
   details: >-
   
    <div class="upper-row">
-        <p class="game-title">Project: Fish Eyes</p>
+         <p class="game-title">Project: <span translate="no"> Fish Eyes </span> </p>
         <div class="game-platform">Platforms: Playstation Portable</div>
    </div><!--//upper-row-->
 

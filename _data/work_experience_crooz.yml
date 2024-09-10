@@ -1,13 +1,13 @@
 crooz:
   role: Unity Developer, Lead Technical Artist
   time: 2014/01 ~ 2016/10
-  company: 'Crooz (Full-time)'
+  company: <span translate="no"> Crooz </span> (Full-time)
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/crooz/
   details: >-
   
    <div class="upper-row">
-        <p class="game-title">Project: Final Fantasy Grandmasters</p>
+        <p class="game-title">Project: <span translate="no"> Final Fantasy Grandmasters </span> </p>
         <div class="game-platform">Platforms: Mobile (iPhone, Android)</div>
    </div><!--//upper-row-->
 
@@ -85,7 +85,7 @@ crooz:
    <br/>
    
    <div class="upper-row">
-        <p class="game-title">Game Title: ACR Drift</p>
+        <p class="game-title">Project: <span translate="no"> ACR Drift </span> </p>
         <div class="game-platform">Platforms: Mobile (iPhone, Android)</div>
    </div><!--//upper-row-->
 

@@ -1,14 +1,14 @@
 raits:
   role: Game Programmer
   time: 2001/01/01 ~ 2001/11/28
-  company: 'RAITS (Full-time)'
+  company: <span translate="no"> RAITS </span> (Full-time)
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/raits/
   company_url:
   details: >-
   
    <div class="upper-row">
-        <p class="game-title">Project: Style Labratory</p>
+         <p class="game-title">Project: <span translate="no"> Style Labratory </span> </p>
         <div class="game-platform">Platforms: XBox</div>
    </div><!--//upper-row-->
 

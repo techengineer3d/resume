@@ -1,14 +1,14 @@
 vivarium:
   role: Mobile Developer
   time: 2009/11/01 ~ 2010/07/28
-  company: 'Vivarium (Contract)'
+  company: <span translate="no"> Vivarium </span> (Contract)
   location: 'Tokyo, Japan'
   link: https://social-drum.cloudvent.net/clients/esmile/
   company_url: https://www.esmile-hd.com/
   details: >-
    
    <div class="upper-row">
-        <p class="game-title">Project: Twitter App</p>
+         <p class="game-title">Project: <span translate="no"> Twitter App </span> </p>
          <div class="game-platform">Platforms: Mobile (iPhone, iPad)</div>
    </div><!--//upper-row-->
 
