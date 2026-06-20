@@ -22,7 +22,7 @@ skills:
       title: "Graphics Programming"
       desc: >-
         <span>API: Microsoft DirectX (8,9), OpenGL, GLES</span><br/>
-        <span>Shaders: Cg, CgFX, HLSL, Unity Shaders, Unreal Material Shaders</span><br/>
+        <span>Shaders: HLSL, Cg/CgFX, Unreal Engine Shaders, Unity Shaders</span><br/>
       level: 0
     - ArtTools: 
       title: "Art Tools Programming"

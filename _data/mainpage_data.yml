@@ -8,7 +8,7 @@ mainpage:
   enable_interests: false
   enable_awards: true
   enable_skills: true
-  enable_projects: false
+  enable_projects: true
   enable_experiences: true
   enable_publications: false
   
