@@ -8,9 +8,9 @@
 {% include head.html %}
 
 <body>
-    <nav id="sidebar">
-      {% google_translate_html %}
-    </nav>
+    <div class="container">
+			{% include google-translate.html %}
+		</div>
 
     <div class="wrapper">
     {% include sidebar.html %}
@@ -24,6 +24,5 @@
 
 {% include scripts.html %}
 </body>
-{% google_translate_javascript %}
 </html>
 
