@@ -104,11 +104,11 @@ projects:
         As a part of my private graphics research, I developed a real-time, complex cinematic shader post effect for visually enhancing games and digital media like movies, shows, animation and images.
         </p>
         <p>
-        <span class="bullet-point">Light and illuminated surfaces become more emissive and bright, with a photonic appearance.</span>
-        <span class="bullet-point">Local contrast shadows help improve contour and shape definition.</span>
-        <span class="bullet-point">Image and micro-surface details become much sharper and clearer, with greater visual accuity.</span>
-        <span class="bullet-point">Multi-layered bloom techniques add a cinematic touch, and help to improve light illumination.</span>
-        <span class="bullet-point">Color tone and vibrancy enahncements result in much richer and more vibrant colors.</span>
+        <span class="bullet-point">Light sources look more emissive, bright and have a photonic appearance, illuminated surfaces look more physically lit.</span>
+        <span class="bullet-point">Local contrast shadows help improve contour and shape definition, and can improve perception of spatial depth.</span>
+        <span class="bullet-point">Image and micro-surface details become much sharper and clearer, with greater visual acuity.</span>
+        <span class="bullet-point">Multi-layered bloom techniques add a cinematic touch, and help to improve illumination.</span>
+        <span class="bullet-point">Color tone and vibrancy enhancements result in much richer and more vibrant colors.</span>
         </p>
         <p>
         Products intended for game development, gaming and media viewers is planned.
