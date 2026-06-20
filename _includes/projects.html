@@ -19,16 +19,34 @@
   {% for project in projects.assignments %}
     <div class="item">
 
-      <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-        {% else %}
-        {{ project.title }}
-        {% endif %}
-      </span>
+     <div class="meta">
+
+        <div class="upper-row">
+          {% if project.category %}
+          <h3 class="degree">{{ project.category }}</h3>
+          {% endif %}
+          {% if project.time %}
+          <div class="time">{{ project.time }}</div>
+          {% endif %}
+        </div><!--//upper-row-->
+
+        <div class="upper-row">
+          <span class="project-title">
+          {% if project.link %}
+          <a href="{{ project.link }}" target="_blank"><div class="university">{{ project.title }}</div></a>
+          {% else %}
+          <div class="university">{{ project.title }}</div>
+          {% endif %}
+          </span>
+          {% if project.location %}
+          <div class="location">{{ project.location }}</div>
+          {% endif %}
+        </div><!--//upper-row-->
+        
+      </div><!--//meta-->
 
       {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
+      <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
 
     </div><!--//item-->

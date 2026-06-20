@@ -28,7 +28,7 @@
     {% endif %}
 
     {% if contact.resume %}
-    <li class="resume"><i class="fas fa-address-card"></i> Curriculum Vitae<br/>
+    <li class="resume"><i class="fas fa-address-card"></i> Resume<br/>
       <a href="http://{{ contact.resume }}" target="_blank">{{ contact.resume }}</a>
     </li>
     {% endif %}
@@ -54,6 +54,12 @@
     {% if contact.bitbucket %}
     <li class="bitbucket"><i class="fab fa-bitbucket"></i> Bitbucket<br/>
       <a href="http://bitbucket.com/{{ contact.bitbucket }}" target="_blank">{{ contact.bitbucket }}</a>
+    </li>
+    {% endif %}
+
+    {% if contact.youtube %}
+    <li class="youtube"><i class="fab fa-youtube"></i> Youtube<br/>
+      <a href="http://{{ contact.youtube }}" target="_blank">{{ contact.youtube }}</a>
     </li>
     {% endif %}
 

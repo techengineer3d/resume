@@ -3,7 +3,24 @@ projects:
   intro: >-
     Personal projects, research and development work
   assignments:
-    - title: RebrightFX
+    - title: <span translate="no"> RebrightFX - Cinematic Detail Enhancement Shader Post Effect </span>
       link: techengineer3d.github.io/portfolio/graphics
+      alt-link: youtube.com/@rebrightfx
+      category: Graphics Research
+      location:
+      time: 2025/03 ~ Present
       tagline: >-
-       A complex cinematic post effect for visually enhancing games, films, shows, animation and digital media.
+        <p>
+        As a part of my private graphics research, I developed a real-time, complex cinematic shader post effect for visually enhancing games and digital media like movies, shows, animation and images.
+        </p>
+        <p>
+        <span class="bullet-point">Light and illuminated surfaces become more emissive and bright, with a photonic appearance.</span>
+        <span class="bullet-point">Local contrast shadows help improve contour and shape definition.</span>
+        <span class="bullet-point">Image and micro-surface details become much sharper and clearer, with greater visual accuity.</span>
+        <span class="bullet-point">Multi-layered bloom techniques add a cinematic touch, and help to improve light illumination.</span>
+        <span class="bullet-point">Color tone and vibrancy enahncements result in much richer and more vibrant colors.</span>
+        </p>
+        <p>
+        Please see my <a href="http://techengineer3d.github.io/portfolio/graphics/">Portfolio Graphics</a> section and my <a href="https://www.youtube.com/@rebrightfx">Youtube Channel</a> for more details.<br/>
+        My Portfolio and Youtube Channel links can be found at the top right of this resume in the sidebar.
+        </p>
