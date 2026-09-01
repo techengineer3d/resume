@@ -1,22 +1,26 @@
 career-profile:
   title: Career Profile
   summary: >-
-    <p>For over 15 years, I have worked in the software development industry as an Engineer on PC, console and mobile game titles.</p>
-    <p>During the course of my career, I have worked primarily on 3D graphics, UI, tools and workflow for game engine editors and 3D art production programs.</p>
-    <p>I am very passionate about real-time 3D graphics, production tools and have a strong interest in dev-ops, automation, AI and machine learning.</p>
-    <p>Outside of the games industry, I have also worked on native iOS and Android mobile app development.</p>
+    <p>I have worked in the software development industry for over 15 years as an Engineer on PC, console and mobile game titles and native mobile apps.</p>
+    <p>My main areas of expertise is tool development, workflow improvement, R&D, realtime 3D graphics shading and rendering, game engine programming and art production pipeline improvement.</p>
+    <p>Being very passionate about game development, I like creating new technology, and improving the way people work individually and together.</p>
     
 career-objective:
   title: Career Objective
   summary: >-
-    <p>I want to work for a successful software development company with a positive, creative environment and an international atmosphere.</p>
-    <p>I am strongly interested in obtaining a permanent senior or mid-level engineer position, or other technical related position.</p>
-    <p>I wish to contribute my knowledge and skills to efficiently make engaging, high quality software application experiences.</p>
+    Employment Goal:<br/>
+    <span class="bullet-point">To work for a successful software development company with a positive, creative environment and an international atmosphere.</span>
+    <br/>
+    Job Position:<br/>
+    <span class="bullet-point">I am strongly interested in obtaining a permanent senior or mid-level engineer position, or other development related position.</span>
+    <br/>
+    Motivation:<br/>
+    <span class="bullet-point">I wish to contribute the knowledge and skills I have gained to make engaging, high quality software application experiences, improve internal operations, and connect with people and make friends in the industry.</span>
 
 career-relocation:
   title: Career Relocation
   summary: >-
-    <p>I am open to relocating to international locations for my career.</p>
+    <p>I am open to relocating internationally for my career.</p>
 
 work-style:
   title: Work Style

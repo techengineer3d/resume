@@ -3,7 +3,7 @@ projects:
   intro: >-
     Personal projects, research and development work
   assignments:
-    - title: <span translate="no"> RebrightFX - Cinematic Detail Enhancement Shader Post Effect </span>
+    - title: <span translate="no"> RebrightFX - Cinematic High Definition Image Detail Enhancing Shader Post Effect </span>
       link: techengineer3d.github.io/portfolio/graphics
       alt-link: youtube.com/@rebrightfx
       category: Graphics Research
@@ -11,19 +11,52 @@ projects:
       time: 2025/03 ~ Present
       tagline: >-
         <p>
-        As a part of my private graphics research, I developed a real-time, complex cinematic shader post effect for visually enhancing games and digital media like movies, shows, animation and images.
+        As a part of my private graphics research, I developed a real-time, complex cinematic shader post effect for enhancing graphics image quality, with the aim of improving visuals for games, films, shows, animation and digital images.
+        The goal was to create at least 2 products, one for home use to visually enhance personal game and movie libraries, and another aimed at use in game engines for game development.
+        I wanted to make scenes and images stand out with clearer, sharper, more beautiful visuals, and give it an increased sense of realism with graphics features like:
         </p>
         <p>
-        <span class="bullet-point">Light sources emit a bright, photonic glow and surfaces appear lit with increased realism.</span>
-        <span class="bullet-point">Local contrast shadow techniques visually improve contour, shape definition and depth perception.</span>
-        <span class="bullet-point">Image and micro-surface details become much sharper and clearer, with greater visual acuity.</span>
-        <span class="bullet-point">Multi-layered bloom techniques add a cinematic touch, and help to improve illumination.</span>
-        <span class="bullet-point">Color tone and vibrancy enhancements result in much richer and more vibrant colors.</span>
+        <u>Light</u>
+        <span class="bullet-point">
+        Enhanced appearance of light and illumination, to give it a more bright, vibrant, emissive photonic glow that looks closer to real world light, instead of the current flat, dull approximations or captures.
+        </span> 
+        <br/>
+        <u>Shadow</u>
+        <span class="bullet-point">
+        Improved self shadowing, to improve contours and give a better visual sense of object shape and definition.
+        </span>
+        <br/>
+        <u>Visual Perception</u>
+        <span class="bullet-point">
+        Improved visual perception and sense of local object space, depth, and distance between objects, to improve visual realism and improve natural human eye focus and tracking of objects when looking at digital media.
+        </span>
+        <br/>
+        <u>Clarity</u>
+        <span class="bullet-point">
+        Improved image clarity, sharpness and fidelity, to make it look as clear as glass, as if like looking through a window to another world.
+        </span>
+        <br/>
+        <u>Detail</u>
+        <span class="bullet-point">
+        Improved image details and micro-details, to enhance it to finer, sharper, higher definition detail levels
+        </span>
+        <br/>
+        <u>Cinematic Look</u>
+        <span class="bullet-point">
+        Cinematic effects like multiple bloom techniques for enhancing illumination, and multiple tonemapping techniques for improved contrast, deep shadows, and a more vibrant look.
+        </span>
+        <br/>
+        <u>Color</u>
+        <span class="bullet-point">
+        Improved color tones and hues, to make colors richer, deeper and more vibrant.
+        </span>
+        <br/>
         </p>
         <p>
-        Products intended for game development, gaming and media viewers is planned.
+        Please see my <a href="https://www.youtube.com/@rebrightfx">Youtube Channel</a> for video samples.<br/>
+        My Youtube Channel link can also be found at the top right of this resume in the sidebar.
         </p>
         <p>
-        Please see my <a href="http://techengineer3d.github.io/portfolio/graphics/">Portfolio Graphics</a> section and my <a href="https://www.youtube.com/@rebrightfx">Youtube Channel</a> for more details.<br/>
-        My Portfolio and Youtube Channel links can be found at the top right of this resume in the sidebar.
+        The home use version of RebrightFX is almost ready for release.<br/>
+        Work on the game engine versions will commence after funding is secured for further development.
         </p>
