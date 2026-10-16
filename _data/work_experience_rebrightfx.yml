@@ -1,0 +1,41 @@
+rebrightfx:
+  role: Principal Software Engineer
+  time: 2025/03 ~ Present
+  company: <span translate="no"> RebrightFX </span> (Self-Employed)
+  location: 'Home Office'
+  link: 
+  details: >-
+  
+   <div class="upper-row">
+        <p class="game-title">R&D Department</p>
+        <div class="game-platform">Platforms: PC</div>
+   </div><!--//upper-row-->
+
+   <div class="upper-row">
+        <div class="game-desc">Realtime Graphics Unit </div>
+        <div class="game-teamsize">Team Size: 1</div>
+   </div><!--//upper-row-->
+
+   <p><i><u>Tech</u></i></p>
+   <p>
+       <span class="bullet-point">Reshade, ReshadeFX Shader Language (similar to HLSL)</span>
+   </p>
+
+   <p><i><u>RebrightFX - Realtime Graphics Enhancement For Games and Media</u></i></p>
+
+    Dedicated an intentional sabbatical to engineering a custom, high-performance real-time post-processing effect aimed at elevating cinematic visuals in games and film.
+
+   <div> Independant Graphics Software R&D</div>
+   <p>
+        <span class="bullet-point"> Evaluated the use of Reshade for use as a shader effect rapid prototyping and development tool.</span>
+        <span class="bullet-point"> Designed and implemented workflows for game and film shader post effect development work.</span>
+        <span class="bullet-point"> Authored a complex realtime cinematic post effect aimed at improving visual quality and fidelity of games and film, while maintaining reasonable frame-budget constraints.</span>
+   </p>
+
+   <div> Product Development</div>
+   <p>
+        <span class="bullet-point"> Evaluated crowdfunding platforms for acquring required capitol to fund product development and release.</span>
+        <span class="bullet-point"> Desgined product development roadmaps for home user facing and game development facing product development and release.</span>
+   </p>
+   
+ 

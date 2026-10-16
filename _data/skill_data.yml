@@ -4,8 +4,8 @@ skills:
     - GameEngines: 
       title: "Game Engines"
       desc: >-
-       <span>Unity (4 , 5 , 2017)</span><br/> 
        <span>Unreal Engine (4 , 5)</span><br/>
+       <span>Unity (4 , 5 , 2017)</span><br/> 
       level: 0
     - Platforms: 
       title: "Development Platforms"
@@ -26,7 +26,7 @@ skills:
       level: 0
     - ArtTools: 
       title: "Art Tools Programming"
-      desc: "Maya (2015 to 2023), Photoshop CC (2014 to 2017), Studio Max (4, 5, 2008)"
+      desc: "Shotgrid (2018), Maya (2015 to 2023), Photoshop CC (2014 to 2017), Studio Max (4, 5, 2008)"
       level: 0
     - Web Programming: 
       title: "Web Programming"
@@ -43,7 +43,7 @@ skills:
       level: 0
     - VersionControl: 
       title: "Version Control"
-      desc: "Perforce, Github, Git"
+      desc: "Perforce, Github, Gitlab, Git (command line)"
       level: 0
     
     

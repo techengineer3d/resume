@@ -1,3 +1,4 @@
+{% assign rebrightfx = site.data.work_experience_rebrightfx.rebrightfx %}
 {% assign squareenix = site.data.work_experience_squareenix.squareenix %}
 {% assign cygames = site.data.work_experience_cygames.cygames %}
 {% assign mightygames = site.data.work_experience_mightygames.mightygames %}
@@ -27,6 +28,7 @@
 
 {% assign experiences = '' | split: '' %}
 
+{% assign experiences = experiences | push: rebrightfx %}
 {% assign experiences = experiences | push: squareenix %}
 {% assign experiences = experiences | push: cygames %}
 {% assign experiences = experiences | push: mightygames %}

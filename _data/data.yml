@@ -19,8 +19,8 @@ sidebar:
   languages:
     - idiom: English
       level: Native
-    - idiom: Japanese
-      level: Daily Conversation
+    #- idiom: Japanese
+    #  level: Daily Conversation
   interests:
     - item: Movies & Games
       link:
