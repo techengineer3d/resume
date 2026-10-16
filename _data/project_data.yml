@@ -3,10 +3,10 @@ projects:
   intro: >-
     Personal projects, research and development work
   assignments:
-    - title: <span translate="no"> RebrightFX - Advanced Realtime Image Enhancement For Digital Media</span>
+    - title: <span translate="no"> RebrightFX - Realtime Graphics Enhancement For Games and Media</span>
       link: techengineer3d.github.io/portfolio/graphics
       alt-link: youtube.com/@rebrightfx
-      category: Graphics Research
+      category: Independent Graphics R&D
       location:
       time: 2025/03 ~ Present
       tagline: >-
