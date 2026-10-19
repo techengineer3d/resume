@@ -348,23 +348,28 @@ body {
     @page {
      size:A4
     }
-    body {
-     font-size:12pt
+    *,
+    *::before,
+    *::after {
+     -webkit-print-color-adjust:exact;
+     print-color-adjust:exact
     }
-    img.avatar {
-     filter:grayscale(1);
-     -webkit-filter:greyscale(1)
+    body {
+     font-size:12pt;
+     -webkit-print-color-adjust:exact;
+     print-color-adjust:exact
     }
     .main-wrapper .time {
      float:right;
-     color:#000!important;
-     -webkit-print-color-adjust:exact
+     -webkit-print-color-adjust:exact;
+     print-color-adjust:exact
     }
     .sidebar-wrapper {
      position:static;
      float:right;
      width:40%;
-     -webkit-print-color-adjust:exact
+     -webkit-print-color-adjust:exact;
+     print-color-adjust:exact
     }
     .remove-container.container-block {
      display:none
@@ -373,8 +378,8 @@ body {
      display:none
     }
     .skillset .level-bar-inner {
-     background-color:#000!important;
-     -webkit-print-color-adjust:exact
+     -webkit-print-color-adjust:exact;
+     print-color-adjust:exact
     }
    }
    
