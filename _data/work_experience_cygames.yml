@@ -37,7 +37,7 @@ cygames:
    
    <div>Tool Optimization - In-house Maya Tools - Took over and improved the existing in-house toolset</div>
    <p>
-       <span class="bullet-point"> Performance Optimizations - Substantially improved sluggish PySide2 UI elements</span>
+       <span class="bullet-point"> Performance Optimizations - Substantially improved sluggish PySide2 UI performance, allowing a model file browser tool to smoothly display hundreds of files, and allowing artists to work at regular pace.</span>
        <span class="bullet-point"> Autodesk Shotgun Integration - Added UI to view and change a model's Shotgun task status</span>
    </p>
 
