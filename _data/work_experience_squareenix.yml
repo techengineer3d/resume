@@ -18,19 +18,19 @@ squareenix:
 
    <p><i><u>Tech</u></i></p>
    <p>
-       <span class="bullet-point">Python, C++, Maya, Unreal Engine 5</span>
+       <span class="bullet-point">C++, Python, Maya, Unreal Engine 5</span>
    </p>
 
    <p><i><u>Facial Animation Development</u></i></p>
    <div> Facial Animation Programming Library</div>
    <p>
-       <span class="bullet-point"> Provided updates and maintenance for an in-house facial animation programming library</span>
+       <span class="bullet-point"> Assisted with updates and maintenance for an in-house C++ facial animation programming library</span>
    </p>
 
    <div> Maya Facial Animation Exporter Tool (In-House)</div>
    <p>
        <span class="bullet-point"> Added new features to allow for the selective export of facial motions, catalogs, libraries and rig data</span>
-       <span class="bullet-point"> Updated tool source code to support Python 3 in newer versions of Maya </span>
+       <span class="bullet-point"> Updated exporter tool source code to support Python 3 in newer versions of Maya </span>
        <span class="bullet-point"> Wrote the tool user guide in English and Japanese language using 'Material for MK Docs'</span>
    </p>
 
@@ -49,7 +49,7 @@ squareenix:
    <p><i><u>Unreal Engine 5 Mobile GPS Location Based Game Project</u></i></p>
    <div> Support Engineer</div>
    <p>
-       <span class="bullet-point">Upgraded the procedural mesh generation system and spawn system to handle regular static meshes</span>
+       <span class="bullet-point">Upgraded the game's procedural mesh generation and spawn systems to handle regular static meshes</span>
        <span class="bullet-point">Created editor tools for real time swapping of game world layers (ground, sky, background, props etc)</span>
    </p>
    
