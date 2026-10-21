@@ -4,47 +4,63 @@ skills:
     - GameEngines: 
       title: "Game Engines"
       desc: >-
-       <span>Unreal Engine (4 , 5)</span><br/>
-       <span>Unity (4 , 5 , 2017)</span><br/> 
+       <span>Unreal Engine 4, 5 (5 years)</span><br/>
+       <span>Unity 4, 5, 2017 (5 years)</span><br/> 
       level: 0
     - Platforms: 
       title: "Development Platforms"
       desc: >-
        <span>Desktop: Windows, Mac</span><br/>
        <span>Mobile: iPhone, Android</span><br/>
-       <span>Game Console: Playstation (PS3, PS4, PSP), Nintendo (Wii, DS), Microsoft XBox</span><br/>
+       <span>Game Console: Playstation PS3, PS4, PSP, Nintendo Wii, DS, Microsoft XBox, XBox360</span><br/>
       level: 0
     - Programming: 
-      title: "Programming"
-      desc: "C/C++ (12 years), C# (5 years), Objective-C/C++ (7 years), Java (7 years), Python (7 years), YAML (2 years)"
+      title: "General Programming"
+      desc: >-
+        <span>Languages: C/C++ (12 years), C# (5 years), Objective-C/C++ (7 years), Java (7 years), Python (7 years), YAML (2 years)</span><br/>
+        <span>IDE: Visual Studio 2022, Visual Studio Code, Jebrains Rider, Jetbrains Pycharm, XCode</span>
       level: 0
-    - API: 
+    - AIWorkflows: 
+      title: "AI Development Tools & Workflows"
+      desc: <span>Cursor AI IDE</span>
+      level: 0
+    - GraphicsProgramming: 
       title: "Graphics Programming"
       desc: >-
-        <span>API: Microsoft DirectX (8,9), OpenGL, GLES</span><br/>
+        <span>3D API: Microsoft DirectX 8/9, OpenGL, GLES</span><br/>
         <span>Shaders: HLSL, Cg/CgFX, Unreal Engine Shaders, Unity Shaders</span><br/>
       level: 0
-    - ArtTools: 
+    - ArtToolProgramming: 
       title: "Art Tools Programming"
-      desc: "Shotgrid (2018), Maya (2015 to 2023), Photoshop CC (2014 to 2017), Studio Max (4, 5, 2008)"
-      level: 0
-    - Web Programming: 
-      title: "Web Programming"
       desc: >-
-        <span>HTML, CSS, Javascript, PHP, Flask (1 year)</span><br/>
+        <span>Maya 2015 to 2023, Studio Max 2008, Shotgrid 2018, Photoshop 2014 to 2017</span><br/>
       level: 0
-    - Database: 
-      title: "Database Programming"
-      desc: "SQL, Postgresql Server, SQLAlchemy (1 year)"
-      level: 0
-    - Cloud:
-      title: "Cloud Platforms"
-      desc: "AWS (1 year)"
+    - UIProgramming: 
+      title: "UI Toolkits and Frameworks"
+      desc: <span>PySide2, Qt, IMGUI, UE5 Slate</span>
       level: 0
     - VersionControl: 
       title: "Version Control"
-      desc: "Perforce, Github, Gitlab, Git (command line)"
+      desc: <span>Perforce, Github, Gitlab, Git (command line)</span>
       level: 0
+    - TaskManagement:
+      title: "Project & Team Tools"
+      desc: >- 
+        <span>JIRA, Asana, Notion, Confluence, Slack, Zoom</span><br/>
+      level: 0
+    - Database:
+      title: "Database Management"
+      desc: <span>SQL, Postgresql Server, SQLAlchemy (1 year), Jetbrains Datagrip, DBeaver</span>
+      level: 0
+#    - Web Programming: 
+#      title: "Web Programming"
+#      desc: >-
+#        <span>HTML, CSS, Javascript, PHP, Jekyll, Flask, Django</span><br/>
+#      level: 0
+#    - Cloud:
+#      title: "Cloud Platforms"
+#      desc: <span>AWS (1 year)</span>
+#      level: 0
     
     
     
