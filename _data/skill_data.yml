@@ -18,6 +18,7 @@ skills:
       title: "General Programming"
       desc: >-
         <span>Languages: C/C++ (12 years), C# (5 years), Objective-C/C++ (7 years), Java (7 years), Python (7 years), YAML (2 years)</span><br/>
+        <span>Concurrent Programming: C++ Multi-threading
         <span>IDE: Visual Studio 2022, Visual Studio Code, Jebrains Rider, Jetbrains Pycharm, XCode</span>
       level: 0
     - AIWorkflows: 
@@ -25,8 +26,9 @@ skills:
       desc: <span>Cursor AI IDE</span>
       level: 0
     - GraphicsProgramming: 
-      title: "Graphics Programming"
+      title: "3D Graphics Programming"
       desc: >-
+        <span>3D Math: Linear Algebra, Vectors, Matrices, Transforms, Rotation, Scaling
         <span>3D API: Microsoft DirectX 8/9, OpenGL, GLES</span><br/>
         <span>Shaders: HLSL, Cg/CgFX, Unreal Engine Shaders, Unity Shaders</span><br/>
       level: 0
