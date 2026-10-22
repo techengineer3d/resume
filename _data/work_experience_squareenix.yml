@@ -1,5 +1,5 @@
 squareenix:
-  role: Workflow / Tools Programmer
+  role: Tools & Workflow Engineer
   time: 2021/06 ~ 2024/06
   company: <span translate="no"> Square Enix </span> (Contract)
   location: 'Tokyo, Japan'
@@ -18,25 +18,22 @@ squareenix:
 
    <p><i><u>Tech</u></i></p>
    <p>
-       <span class="bullet-point">C++, Python, Maya, Unreal Engine 5, Perforce, Github, Jira, Confluence</span>
+       <span class="bullet-point">C++, Python, Maya, Unreal Engine 5, Jenkins, Perforce, Github, Jira, Confluence</span>
    </p>
 
    <p><i><u>Facial Animation Development</u></i></p>
    <div> Facial Animation Programming Library</div>
    <p>
        <span class="bullet-point"> Assisted with updates and maintenance for an in-house C++ facial animation programming library</span>
+       <span class="bullet-point"> Assisted with Jenkins builds and updates for the facial animation programming library</span>
    </p>
 
-   <div> Maya Facial Animation Exporter Tool (In-House)</div>
+   <div> Maya Facial Animation Tools (In-House)</div>
    <p>
        <span class="bullet-point"> Added new features to allow for the selective export of facial motions, catalogs, libraries and rig data</span>
-       <span class="bullet-point"> Updated exporter tool source code to support Python 3 in newer versions of Maya </span>
-       <span class="bullet-point"> Wrote the tool user guide in English and Japanese language using 'Material for MK Docs'</span>
-   </p>
-
-   <div> Maya Facial Animation Management Tool (In-House)</div>
-   <p>
+       <span class="bullet-point"> Updated facial animation exporter tool source code to support Python 3 in newer versions of Maya </span>
        <span class="bullet-point"> Created a tool for selecting and mixing facial motions from different motion libraries</span>
+       <span class="bullet-point"> Wrote the internal Maya facial animation tool user guide in English and Japanese language using 'Material for MK Docs'</span>
    </p>
    
    <div> Facial Animation Project (Luminous Engine, Unreal Engine 5) </div>

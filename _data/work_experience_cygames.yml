@@ -18,7 +18,7 @@ cygames:
 
    <p><i><u>Tech</u></i></p>
    <p>
-       <span class="bullet-point">C++, Python, PySide2, Maya, Unreal Engine 4, PS4/PS5, Perforce, Github, Jira, Confluence</span>
+       <span class="bullet-point">C++, Python, PySide2, Maya, Unreal Engine 4, PS4/PS5, Jenkins, AWS, Flask, Postgresql, Perforce, Github, Jira, Confluence</span>
    </p>
 
    <p><i><u>Art Pipeline Tools Development</u></i></p>
@@ -99,17 +99,23 @@ cygames:
    
    <div><i><u>Tool Logging</u></i></div>
    <p>
-        <span class="bullet-point"> created a log aggregation system to combine logs from multiple running versions of Maya</span>
-        <span class="bullet-point"> created a tool logging system to track, gage and analyze internal tool usage and errors</span>
-        <span class="bullet-point"> added support to internal Maya and Photoshop tools to send logs to the logging system</span>
-        <span class="bullet-point"> added support for receiving tool log errors in Slack using webhooks</span>
+        <span class="bullet-point"> Created a log aggregation system to combine development logs from multiple running versions of Maya</span>
+        <span class="bullet-point"> Created a python web app tool logging system (Flask) to track and chart Maya tool usage and errors</span>
+        <span class="bullet-point"> Added support to internal Maya and Photoshop tools to send logs to the logging system</span>
+        <span class="bullet-point"> Added support for receiving tool log errors in Slack using webhooks</span>
+        <span class="bullet-point"> Assisted Lead Technical Artist with migrating the tool logging system from Flask to AWS.</span>
    </p>
-   
+
+   <div><i><u>Tool Build CI/CD</u></i></div>
+   <p>
+        <span class="bullet-point"> Assisted with adding additional build support to Jenkins for internal tools.</span>
+   </p>
+
    <div><i><u>Quality Assurance Improvment</u></i></div>
    <p>
     <span>Conducted research to improve my groups quality of code and source documentation:</span>
     <span class="bullet-point"> Recommended source code analysis tools like: SonarLint, SonarQube</span>
     <span class="bullet-point"> Suggested coding style tools like: Unibeautify</span>
-    <span class="bullet-point"> Promoted source documentation tools like: Doxygen, Sphinx, Sphinx-JS or TypeDoc</span>
+    <span class="bullet-point"> Promoted source documentation tools like: Doxygen, Sphinx, Sphinx-JS and TypeDoc</span>
    </p>
  

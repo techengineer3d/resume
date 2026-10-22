@@ -39,6 +39,10 @@ skills:
       title: "UI Toolkits and Frameworks"
       desc: <span>PySide2, Qt, IMGUI, UE5 Slate</span>
       level: 0
+    - CICD: 
+      title: "Continuous Integration & Development (CI/CD)"
+      desc: <span>Jenkins</span>
+      level: 0
     - VersionControl: 
       title: "Version Control"
       desc: <span>Perforce, Github, Gitlab, Git (command line)</span>
@@ -57,10 +61,10 @@ skills:
 #      desc: >-
 #        <span>HTML, CSS, Javascript, PHP, Jekyll, Flask, Django</span><br/>
 #      level: 0
-#    - Cloud:
-#      title: "Cloud Platforms"
-#      desc: <span>AWS (1 year)</span>
-#      level: 0
+    - CloudComputing:
+      title: "Cloud Computing Platforms"
+      desc: <span>Amazon Web Services (AWS)</span>
+      level: 0
     
     
     

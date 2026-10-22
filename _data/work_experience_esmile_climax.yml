@@ -1,5 +1,5 @@
 climax:
-  role: Game Programmer
+  role: Lead Engineer
   time: 2007/02/01 ~ 2007/09/28
   company: <span translate="no"> Climax </span> (Contract)
   location: 'Tokyo, Japan'
@@ -25,5 +25,11 @@ climax:
    <p><i><u>Framework Development</u></i></p>
    <p>
        <span class="bullet-point"> Built a framework for managing 2D and 3D scene graphics and memory</span>
+   </p>
+
+   <p><i><u>Team Support</u></i></p>
+   <p>
+       <span class="bullet-point"> Assited junior engineers with resolving technical issues.</span>
+       <span class="bullet-point"> Mentored junior engineers with programming tips.</span>
    </p>
    
