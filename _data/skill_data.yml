@@ -18,17 +18,17 @@ skills:
       title: "General Programming"
       desc: >-
         <span>Languages: C/C++ (12 years), C# (5 years), Objective-C/C++ (7 years), Java (7 years), Python (7 years), YAML (2 years)</span><br/>
-        <span>Concurrent Programming: C++ Multi-threading
-        <span>IDE: Visual Studio 2022, Visual Studio Code, Jebrains Rider, Jetbrains Pycharm, XCode</span>
+        <span>Concurrent Programming: C++ Multi-threading<br/>
+        <span>IDE: Visual Studio 2022, Visual Studio Code, Jebrains Rider, Jetbrains Pycharm, XCode</span><br/>
       level: 0
     - AIWorkflows: 
       title: "AI Development Tools & Workflows"
-      desc: <span>Cursor AI IDE</span>
+      desc: <span>Cursor AI IDE</span><br/>
       level: 0
     - GraphicsProgramming: 
       title: "3D Graphics Programming"
       desc: >-
-        <span>3D Math: Linear Algebra, Vectors, Matrices, Transforms, Rotation, Scaling
+        <span>3D Math: Linear Algebra, Vectors, Matrices, Transforms, Rotation, Scaling<br/>
         <span>3D API: Microsoft DirectX 8/9, OpenGL, GLES</span><br/>
         <span>Shaders: HLSL, Cg/CgFX, Unreal Engine Shaders, Unity Shaders</span><br/>
       level: 0
@@ -39,15 +39,15 @@ skills:
       level: 0
     - UIProgramming: 
       title: "UI Toolkits and Frameworks"
-      desc: <span>PySide2, Qt, IMGUI, UE5 Slate</span>
+      desc: <span>PySide2, Qt, IMGUI, UE5 Slate</span><br/>
       level: 0
     - CICD: 
       title: "Continuous Integration & Development (CI/CD)"
-      desc: <span>Jenkins</span>
+      desc: <span>Jenkins</span><br/>
       level: 0
     - VersionControl: 
       title: "Version Control"
-      desc: <span>Perforce, Github, Gitlab, Git (command line)</span>
+      desc: <span>Perforce, Github, Gitlab, Git (command line)</span><br/>
       level: 0
     - TaskManagement:
       title: "Project & Team Tools"
@@ -56,7 +56,7 @@ skills:
       level: 0
     - Database:
       title: "Database Management"
-      desc: <span>SQL, Postgresql Server, SQLAlchemy (1 year), Jetbrains Datagrip, DBeaver</span>
+      desc: <span>SQL, Postgresql Server, SQLAlchemy, Jetbrains Datagrip, DBeaver</span><br/>
       level: 0
 #    - Web Programming: 
 #      title: "Web Programming"
@@ -65,7 +65,7 @@ skills:
 #      level: 0
     - CloudComputing:
       title: "Cloud Computing Platforms"
-      desc: <span>Amazon Web Services (AWS)</span>
+      desc: <span>Amazon Web Services (AWS)</span><br/>
       level: 0
     
     
