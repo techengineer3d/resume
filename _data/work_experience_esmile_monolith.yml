@@ -1,5 +1,5 @@
 monolith:
-  role: Game Programmer
+  role: Physics Programmer
   time: 2006/02/01 ~ 2007/01/28
   company: <span translate="no"> Monolith Software </span> (Contract)
   location: 'Tokyo, Japan'
@@ -19,7 +19,7 @@ monolith:
 
    <p><i><u>Tech</u></i></p>
    <p>
-       <span class="bullet-point">C++, Visual Studio, Havok Physics</span>
+       <span class="bullet-point">C++, Visual Studio, Havok Physics SDK</span>
    </p>
 
    <p><i><u>Car Physics Programming</u></i></p>
