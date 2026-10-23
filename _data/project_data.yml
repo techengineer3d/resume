@@ -10,9 +10,9 @@ projects:
       time: 2025/01 ~ Present
       tagline: >-
         <p>
-        As a part of my private graphics research, I developed a real-time, complex cinematic shader post effect for enhancing graphics image quality, with the aim of improving visuals for games, films, shows, animation and digital images.
-        The goal was to create at least 2 products, one for home use to visually enhance personal game and movie libraries, and another aimed at use in game engines for game development.
-        I wanted to make scenes and images stand out with a clearer image, sharper details, better definition, better color, and an improved sense of realism.
+        As a part of my independent graphics research, I developed a real-time, complex cinematic shader post effect for enhancing graphics image quality, with the aim of improving visuals for games, films, shows, animation and digital images.
+        I wanted to make scenes and images stand out with a clearer image, sharper details, higher definition, better color, enhanced illumination, and an improved sense of depth and realism.
+        The goal was to create 2 products, one for home use to visually enhance personal game and media libraries, and another aimed at use in game engines for game development.
         </p>
 
         <p>
@@ -24,7 +24,7 @@ projects:
         Local contrast self-shadowing and visual perception of shape definition
         </span> 
         <span class="bullet-point">
-        Visual perception of 3d object space and depth, and natural eye focus and tracking
+        Visual perception of 3d object space and depth, and natural eye focus locking and tracking
         </span> 
         <span class="bullet-point">
         Image clarity and sharpness

@@ -5,7 +5,6 @@ rebrightfx:
   location: 'Home Office'
   link: 
   details: >-
-  
    <div class="upper-row">
         <p class="game-title">R&D Department</p>
         <div class="game-platform">Platforms: PC</div>
@@ -23,7 +22,7 @@ rebrightfx:
 
    <p><i><u>RebrightFX - Realtime Graphics Enhancement For Games and Media</u></i></p>
 
-    Dedicated an intentional sabbatical to engineering a custom, high-performance real-time post-processing effect aimed at elevating cinematic visuals in games and film.
+    Dedicated an intentional sabbatical to engineering a custom, high-performance real-time post-effect aimed at elevating cinematic visuals in games and film.
 
    <div> Independent Graphics Software R&D</div>
    <p>
@@ -37,5 +36,6 @@ rebrightfx:
         <span class="bullet-point"> Evaluated crowdfunding platforms for acquring required capitol to fund product development and release.</span>
         <span class="bullet-point"> Desgined product development roadmaps for home user facing and game development facing product development and release.</span>
    </p>
+   
    
  
