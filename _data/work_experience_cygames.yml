@@ -23,47 +23,38 @@ cygames:
 
    <p><i><u>Art Pipeline Tools Development</u></i></p>
    <p>Maya</p>
-   <div> Tool Enhancement - Studio Library - A free tool for creating character poses in Autodesk Maya </div>
+   <div> In-house Maya Tools - Takeover and improvment of internal tools </div>
    <p>
+       <span class="bullet-point"> Optimizations - Substantially optimized a poorly performing Pyside2 UI Maya scene file browser, enabling artists to smoothly browse through hundreds of files and work at regular pace without delays.</span>
+       <span class="bullet-point"> Filter Search - Added fast, realtime text filtering (as its typed) for the Maya scene file browser UI (above), allowing artists to quickly find desired files.</span>
+       <span class="bullet-point"> Autodesk Shotgrid Support - Added UI to view and change a model's Shotgrid task status directly from Maya, allowing artists to stay focused within their main Maya work environment.</span>
        <span class="bullet-point"> Perforce - Added Perforce support, enabling the artists to version control their work directly from Maya</span>
-       <span class="bullet-point"> Relative Poses - Added support to apply poses to characters at locations other than origin (X0,Y0,Z0)</span>
-       <span class="bullet-point"> Naming Conventions - Changed the asset name extensions to comply with naming rules</span>
-   </p>
-   
-   <div> Tool Enhancement - Pyblish - A free tool for testing and validating art assets against production rules</div>
-   <p>
-       <span class="bullet-point"> Hierarchy: Added tests to check model objects for correct parenting rules</span>
-       <span class="bullet-point"> Naming: Added tests to verify models, materials and textures comply with naming rules</span>
-   </p>
-   
-   <div>Tool Optimization - In-house Maya Tools - Took over and improved the existing in-house toolset</div>
-   <p>
-       <span class="bullet-point"> Performance Optimizations - Substantially improved sluggish PySide2 UI performance, allowing a model file browser tool to smoothly display hundreds of files, and allowing artists to work at regular pace.</span>
-       <span class="bullet-point"> Autodesk Shotgun Integration - Added UI to view and change a model's Shotgun task status</span>
+       <span class="bullet-point"> Remote Work Critical Fix: Built a new Maya compatible Secure Socket Layer Perforce binary to enable remote network access to company on-premise Perforce servers for artists working from home, allowing artists to continue their work on AAA art production during COVID-19.</span>
    </p>
 
-   <p><i><u>Critical Problem Solving - Maya & Perforce Network Issue</u></i></p>
-   <div>
+   <div> Studio Library Customization Work - An open source tool for creating a library of character poses</div>
    <p>
-       When COVID-19 started, 3D artists went home for remote work and discovered they could no longer connect from Maya to company Perforce servers over their home network. 
-       There was an issue with a secure socket layer binary (SSL), that was the source of the issue.
-       The problem prevented 3d art production from continuing, and everything came to a halt.
-       I used my engineering skills to build a new SSL binary compatible with the Maya version being used by the 3D artists.
-       This re-enabled network access from Maya to the on-premise company Perforce servers, and allowed 3D artists to continue their work remotely from home, saving the game's art production.
+       <span class="bullet-point"> Relative Poses - Added support to apply poses to characters at locations other than the origin (X0,Y0,Z0)</span>
+       <span class="bullet-point"> Naming Conventions - Added support to change asset name extensions to comply with naming rule conventions</span>
    </p>
-   </div>
+   
+   <div> Pyblish Customization Work - An open source tool for testing and validating art assets against art production rules</div>
+   <p>
+       <span class="bullet-point"> Hierarchy: Added tests to check model objects for correct parenting rules</span>
+       <span class="bullet-point"> Naming: Added tests to verify that the names of models, materials and textures comply with naming rules</span>
+   </p>
    
    <p><i><u>Unreal Engine Work</u></i></p>
-   <div>Material Development</div>
+   <div>UE Material Development</div>
    <p>
        <span class="bullet-point"> Character Hair Shader - Helped improve the visual quality of the main characters hair</span>
        <span class="bullet-point"> Material Debugging - Debugged and fixed visual artifacts ocurring on the PS4</span>
        <span class="bullet-point"> UE4 Flipboard Shader Fix - Corresponded with Epic Games to fix a bug in their flipboard shader</span>
    </p>
    
-   <div>Tool Development</div>
+   <div>UE Tool Development</div>
    <p>
-        <span class="bullet-point"> UE4 Game Level Data Exporter - created a tool that exported the positions of models from game levels</span>
+        <span class="bullet-point"> UE4 Game Level Data Exporter - created a C++ tool that exported the positions of models from UE4 game levels, in order to migrate the levels to a new custom game engine.</span>
    </p>
    
    <br/>
@@ -91,6 +82,18 @@ cygames:
    </p>
    
    <br/>
+
+   <div class="upper-row">
+        <p class="game-title">Unity Mobile Game Develoment</p>
+        <div class="game-desc">Various Game Titles</div>
+   </div><!--//upper-row-->
+
+   <div><i><u>In-house Support Engineer</u></i></div>
+    <p>
+        <span class="bullet-point"> Assisted various in-house Unity mobile game development teams with engineering tasks and bug fixes, when no other Technical Art Team tasks were pending.</span>
+    </p>   
+
+    <br/>
    
    <div class="upper-row">
         <p class="game-title">Technical Artist Team</p>
@@ -100,18 +103,18 @@ cygames:
    <div><i><u>Tool Logging</u></i></div>
    <p>
         <span class="bullet-point"> Created a log aggregation system to combine development logs from multiple running versions of Maya</span>
-        <span class="bullet-point"> Created a python web app tool logging system (Flask) to track and chart Maya tool usage and errors</span>
-        <span class="bullet-point"> Added support to internal Maya and Photoshop tools to send logs to the logging system</span>
+        <span class="bullet-point"> Created a python web app tool logging system (Flask) to track and chart Maya tool usage frequency and tool errors</span>
+        <span class="bullet-point"> Added support to internal Maya and Photoshop tools to send logs to the tool logging system</span>
         <span class="bullet-point"> Added support for receiving tool log errors in Slack using webhooks</span>
-        <span class="bullet-point"> Assisted Lead Technical Artist with migrating the tool logging system from Flask to AWS.</span>
+        <span class="bullet-point"> Assisted the Lead Technical Artist with migrating the tool logging system from Flask to AWS.</span>
    </p>
 
-   <div><i><u>Tool Build CI/CD</u></i></div>
+   <div><i><u>CI/CD Tool Builds</u></i></div>
    <p>
         <span class="bullet-point"> Assisted with adding additional build support to Jenkins for internal tools.</span>
    </p>
 
-   <div><i><u>Quality Assurance Improvment</u></i></div>
+   <div><i><u>Coding Quality Assurance Improvment</u></i></div>
    <p>
     <span>Conducted research to improve my groups quality of code and source documentation:</span>
     <span class="bullet-point"> Recommended source code analysis tools like: SonarLint, SonarQube</span>
