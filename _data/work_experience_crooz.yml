@@ -45,15 +45,15 @@ crooz:
    <div> Unity Material Animation System (Color, Alpha, Texture UV Translation / Rotation / Scaling) </div>
    <p>
     Designed and implemented a custom solution for exporting material animation from Maya, and importing and animating material color, alpha, and texture UV coordinates in Unity.
-    <span class="bullet-point"> Custom Maya C++ FBX Exporter - Designed and implemented specialized Maya FBX exporter to include custom animation data marked for Unity import. </span>
-    <span class="bullet-point"> Custom Unity FBX Importer - Designed and implemented custom Unity FBX importer to import and handle marked material animation data exported from Maya.
-    <span class="bullet-point"> Custom Material Animation Shader - Implemented custom animation driven material shader to modify material values in realtime. </span>
-    <span class="bullet-point"> Custom Unity Material Animation Clip - Designed and implemented a custom Unity animation clip made from Maya material animation data, coupled with a custom shader to animate material values during playback.
+    <span class="bullet-point"> Custom Maya C++ FBX Exporter - Designed and implemented a specialized Maya FBX exporter to include custom material animation data marked for Unity import. </span>
+    <span class="bullet-point"> Custom Unity FBX Importer - Designed and implemented a custom Unity FBX importer to import and handle marked material animation data exported from Maya.
+    <span class="bullet-point"> Custom Material Animation Shader - Desinged and implemented a custom animation driven material shader to modify material values in realtime. </span>
+    <span class="bullet-point"> Custom Unity Material Animation Clip - Dynamically created custom Unity animation clips made from imported Maya material animation data, and coupled it with the custom shader (above) to animate material values in realtime during playback.
    </p>
 
    <div>Particles</div>
    <p>
-       <span class="bullet-point"> Particle Scaling System - Implemented a custom method to dynamically scale Unity particle effects at <u>runtime</u>, using gameobject hierarchy transforms</span>
+       <span class="bullet-point"> Runtime Particle Scaling System - Implemented a custom method to dynamically scale Unity particle effects at <u>runtime</u>, using gameobject hierarchy transforms and a custom script</span>
    </p>
 
    <div>Meshes</div>

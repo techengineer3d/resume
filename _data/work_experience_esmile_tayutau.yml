@@ -24,9 +24,9 @@ tayutau:
 
    <p><i><u>Unity Plugin Development</u></i></p>
    <p>
-       Developed a plugin for Silicon Studio's Motion Portrait to animate character faces:
+       Developed a Unity plugin for Silicon Studio's Motion Portrait to animate character faces:
        <span class="bullet-point"> Implemented the graphics rendering source code for iPhone and Android platforms</span>
        <span class="bullet-point"> Built the Motion Portrait binary for iPhone and Android (NDK)</span>
-       <span class="bullet-point"> Created a Unity plugin to use the Motion Portrait binary</span>
+       <span class="bullet-point"> Created a Unity plugin to use the Motion Portrait binary for iPhone and Android</span>
    </p>
    
