@@ -17,7 +17,7 @@ skills:
     - Programming: 
       title: "General Programming"
       desc: >-
-        <span>Languages: C/C++ (12 years), C# (5 years), Objective-C/C++ (7 years), Java (7 years), Python (7 years), YAML (2 years)</span><br/>
+        <span>Languages: C/C++ (12 years), C# (5 years), Python (7 years), Objective-C/C++ (7 years), Java (7 years)</span><br/>
         <span>Concurrent Programming: C++ Multi-threading<br/>
         <span>IDE: Visual Studio 2022, Visual Studio Code, Jebrains Rider, Jetbrains Pycharm, XCode</span><br/>
       level: 0
@@ -40,6 +40,11 @@ skills:
     - UIProgramming: 
       title: "UI Toolkits and Frameworks"
       desc: <span>PySide2, Qt, IMGUI, UE5 Slate</span><br/>
+      level: 0
+    - PerfProfilingOpt: 
+      title: "Performance Profiling & Optimization"
+      desc: >-
+        <span>Memory, CPU, GPU, Unreal Insights, Unity Profiler, NVIDIA Nsight Graphics, Microsoft PIX on Windows</span><br/>
       level: 0
     - CICD: 
       title: "Continuous Integration & Development (CI/CD)"
